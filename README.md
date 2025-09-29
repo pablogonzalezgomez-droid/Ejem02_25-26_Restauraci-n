@@ -1,3 +1,5 @@
+Propietario: Pablo Gonzalez
+
 # Ejem02_2526_Restauracion
 
 # H1
