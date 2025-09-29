@@ -1,3 +1,6 @@
+Nombre propietario del proyecto: Pablo Gonzalez Gomez
+
+
 # Ejem02_25-26_Restauraci-n
 
 # H1
