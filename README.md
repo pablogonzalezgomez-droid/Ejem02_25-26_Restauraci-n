@@ -52,7 +52,7 @@ Tareas a realizar
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
+- [x] Repasar lo que vimos en clase
 
 
 I need to highlight these <mark>very important words</mark>
