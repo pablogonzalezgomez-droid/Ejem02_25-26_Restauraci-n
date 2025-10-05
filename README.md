@@ -55,7 +55,7 @@ Tareas a realizar
 - [x] Repasar lo que vimos en clase
 
 
-I need to highlight these <mark>very important words</mark>
+I need to highlight these <mark> very important words</mark>
 
 <dl>
   <dt><mark>Término 1</mark></dt>
