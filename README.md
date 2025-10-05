@@ -26,7 +26,7 @@ Imagen corporativa 	![LogoGF](https://gregoriofer.com/logo.jpg)
 
 Trabajadores del proyecto:
 | Identificador | Nombre alumno |
-| ----------- | ----------- |
+| ---------------------- | ---------------------- |
 | 1 | Victor |
 | 2 | Jorge | 
 | 3 | Laura | 
